@@ -1,0 +1,51 @@
+.container{
+	width: 700px;
+	margin: 0 auto;
+}
+.orilla{
+	margin: 20px;
+	border: 1px solid black;
+}
+.round{
+	margin-left: 40%;
+	margin-top: 20px;
+	width: 150px;
+	border-radius: 100%;
+}
+h1{
+	text-align: center;
+	margin-top: 0;
+}
+p{
+	text-align: center;
+	padding: 10px 70px;
+}
+h2{
+	margin-left: 30px;
+}
+.primer{
+	height: 40px;
+	width: 400px;
+	background-color: grey;
+}
+.marge{
+	margin-left: 60px;
+}
+.lenguaje{
+	color: white;
+	text-align: left;
+	padding: 10px 20px ;
+}
+.seg{
+	width: 300px;
+}
+.ter{
+	width: 200px;
+}
+img{
+	width: 180px;
+	margin: 10px;
+}
+.port{
+	padding-left: 25px;
+}
